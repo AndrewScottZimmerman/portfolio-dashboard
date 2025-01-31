@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This **Portfolio Performance Dashboard** is a **data-driven analytics tool** that:
  - Fetches and stores stock price data 📈  
- - nalyzes portfolio performance of hypothetical symbols using **Monte Carlo simulations**
+ - Analyzes portfolio performance of hypothetical symbols using **Monte Carlo simulations**
  - Optimizes portfolios for **Max Sharpe Ratio** and **Min Volatility**
  - Provides **interactive visualizations** via **Streamlit**
  - Please note it's for fun and educational purposes and mostly just to explore data analysis.
@@ -14,7 +14,7 @@ If you wish to skip installing the scripts you can view the project through Stre
 
 ## 🛠 Installation
 1. Clone the repository:
-git clone https://github.com/andrewscottzimmerman/portfolio-dashboard.git
+git clone https://github.com/AndrewScottZimmerman/portfolio-dashboard.git
 cd portfolio-dashboard
 2. Create a virtual environment (optional but recommended):
 python -m venv venv
