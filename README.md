@@ -1,8 +1,8 @@
-# 📊 Portfolio Performance Dashboard
+# Portfolio Performance Dashboard
 
-## 🚀 Overview
+## Overview
 This **Portfolio Performance Dashboard** is a **data-driven analytics tool** that:
- - Fetches and stores stock price data 📈  
+ - Fetches and stores stock price data
  - Analyzes portfolio performance of hypothetical symbols using **Monte Carlo simulations**
  - Optimizes portfolios for **Max Sharpe Ratio** and **Min Volatility**
  - Provides **interactive visualizations** via **Streamlit**
@@ -30,5 +30,5 @@ streamlit run src/app.py
 - Sharpe Ratio Comparison with S&P 500
 - SQLite Database Storage for Historical Data
 
-🚀 Developed by Andrew Zimmerman
-📧 Contact: andrewszimmerman@outlook.com
+Developed by Andrew Zimmerman
+Contact: andrewszimmerman@outlook.com
